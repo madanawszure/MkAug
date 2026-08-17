@@ -15,4 +15,13 @@ rgdetails =  {
             manged_by="terraform"
         }
     }
+
+     rg3={
+        name= "rg3-dev"
+        location="southindia"
+        tags={
+            environment ="dev"
+            manged_by="terraform"
+        }
+    }
 }
